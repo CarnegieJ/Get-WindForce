@@ -66,7 +66,7 @@ function Get-WindForce {
         10        'Storm', 'Tempesta','Tempête','Schwerer Sturm'
         11        'Violent storm', 'Fortunale','Violent tempête','Orkanartiger Sturm'
         12        'Hurricane', 'Uragano','Ouragan','Orkan'
-        13        'Hurricane', 'Uragano','Ouragan','Orkan'
+        13        'NA', 'NA','NA','NA'
         #>
         $Strings = 
             $(@{1033 = 'Calm' # String Item 0
